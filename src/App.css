@@ -1,0 +1,46 @@
+body,
+html,
+#root {
+  font-family:sans-serif;
+}
+
+.App {
+ display: flex;
+ flex-direction: column;
+ justify-content: center; 
+align-items: center;
+height: 100vh;
+ 
+}
+.myForm{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+
+.myForm input{
+border-radius: 5px;
+width:300px;
+height: 30px;
+margin-top: 5px;
+margin-bottom: 20px;
+}
+
+.myForm button{
+border-radius: 5px;
+border:none;
+width: 35%;
+height: 20px;
+margin: 0 auto;
+font-size: 10px;
+background-color: coral;
+color: white;
+}
+
+.user-list{
+  width: 300px;
+  font-size: 10px;
+}
+  
+ 
