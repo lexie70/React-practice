@@ -21,7 +21,7 @@ Refer to result.png to see final result.
 <!--id attribute to the input  -->
 <!-- use for attribute to the inputs label with the id-->
 
-3. On submit add the resulting user to an array called profileData
+3. On submit add the resulting user to an array called oro
    <!-- crate an array for sending the data and storaging -->
  <!-- using an useState to set the state of the array profileData -->
 
